@@ -1,0 +1,29 @@
+﻿{
+  "applicationCaption": "I s s21",
+  "applicationTitle": "I s s21",
+  "items": [
+    {
+      "link": null,
+      "menuName": "i-s-s21",
+      "caption": "ISS21",
+      "title": "ISS21",
+      "children": [
+        {
+          "link": "i-i-s-i-s-s21-вид-поддержки-l",
+          "menuName": null,
+          "caption": "Вид поддержки",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-i-s-s21-форма-l",
+          "menuName": null,
+          "caption": "Форма",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}
